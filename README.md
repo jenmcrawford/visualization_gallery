@@ -5,7 +5,7 @@ Repo for general visualization settings (e.g., violin plots, heatmaps, etc.) - a
 
 ### Groovy
 
-### Watermelon
+  pal = ["#434242","#10A19D","#540375","#FF7000","#FFBF00","#FFBF00","#0020B3","#718F79","#820345","#8F7F7F","#00E2FF","#CF0A0A"]
 
 ### References
 
